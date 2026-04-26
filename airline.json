@@ -11,7 +11,7 @@
                 {
                     "name": "31st Sqn FA-136",                                                          // Name of the livery
                     "texture": [
-                        "https://geo-fs.com/models/aircraft/premium/a380/texture_3.jpg"         // This is the link to the Texture
+                        "/liveries/f16/31FA-136.png"         // This is the link to the Texture
                     ],
                     "credits": "GeoFS"                                                          // The creator of the livery mostly a discord or github nickname
                 }
