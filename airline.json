@@ -1,0 +1,24 @@
+{
+    "name": "Belgian Air Force (BAF)", // Name of your airline
+    "color": "yellow",             // The color of the name in LiverySelector
+    "bgcolor": "black",      // The background color of the name in LiverySelector
+    "aircrafts": {
+
+        },
+        "1": {
+            "name": "General Dynamics F16 Fighting Falcon",
+            "liveries": [
+                {
+                    "name": "31st Sqn FA-136",                                                          // Name of the livery
+                    "texture": [
+                        "https://geo-fs.com/models/aircraft/premium/a380/texture_3.jpg"         // This is the link to the Texture
+                    ],
+                    "credits": "GeoFS"                                                          // The creator of the livery mostly a discord or github nickname
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+    }
+}
