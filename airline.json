@@ -11,7 +11,7 @@
                 {
                     "name": "31st Sqn FA-136",                                                          // Name of the livery
                     "texture": [
-                        "/liveries/f16/31FA-136.png"         // This is the link to the Texture
+                        "https://raw.githubusercontent.com/r3xicodes/Belgian-Air-Force/main//liveries/f16/31FA-136.png"         // This is the link to the Texture
                     ],
                     "credits": "BAF Office of Design"                                                          // The creator of the livery mostly a discord or github nickname
                 }
